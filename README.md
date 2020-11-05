@@ -1,6 +1,6 @@
 # Botober2020
 
-Training an LSTM model to generate drawing prompts. In the vein of the popular #drawtober and #inktoberp prompts, and inspired by Janelle Shane's project of the same name.
+Training an LSTM model to generate drawing promptss in the vein of the popular #drawtober and #inktoberp projects.
 
 
 ### Best Answers, take 1:
