@@ -1,7 +1,8 @@
 # Botober2020
 
-Training an LSTM model to generate drawing promptss in the vein of the popular #drawtober and #inktober projects.
+Training an LSTM model to generate drawing prompts in the vein of the popular #drawtober and #inktober projects.
 
+See my <a href='https://www.caseyjellis.com/personal-projects/botober-2020'>writeup here</a> and some <a href='https://twitter.com/caseyj_ellis/status/1315355137741918215'>results here</a>.
 
 ### Best Answers, take 1:
 
